@@ -4,6 +4,8 @@ abel
 
 ## QuickStart
 
+<!-- 阿里云视频点播功能：AccessKey已过期，如需使用阿里云视频请自行申请替换 -->
+
 <!-- add docs here for user -->
 
 see [egg docs][egg] for more detail.
